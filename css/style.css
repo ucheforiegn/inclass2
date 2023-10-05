@@ -1,0 +1,57 @@
+/* student Name: uche Uzoma
+   Student Number: 8911148
+   */
+
+   body{
+       font: normal normal normal 12px/1.5 verdana, arial, helvetica, sans-serif;
+       height: 100;
+       width: 100;
+       background-color: hsla(195, 81%, 83%, 0.8);
+
+   }
+   h2{
+       font-size: 2rem;
+       color: rgb(23,45, 65);
+
+   } 
+   header{
+        background-clor: hsl(336, 85%, 45%);
+   }
+   main{
+       float: left;
+       width: 65vw;
+       height: 60vh;
+       background-color: hsl(309, 85%, 45%);
+
+   }
+   aside{
+        float: right;
+        width: 25vw;
+        height: 60vh;
+        background-color: hsl(272, 84%, 46%);
+
+   }
+   .structural{
+          margin: 10px;
+          padding: 10px;
+          border: 2px solid black;
+   }
+   #para1{
+        color rbg(19, 1, 81);
+   }
+   #para2{
+        color: rbg(94, 2, 2);
+   }
+   a:hover{
+        color: #0a9;
+   }
+   footer p{
+        font-size: 75em;
+   }
+    
+        
+     
+               
+          
+
+   
